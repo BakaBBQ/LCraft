@@ -7,8 +7,8 @@ class World
 		:chunks # a 200 * 200 * 30 Table, contains all the chunks
 		
 		[
-			:rainmap,
-			:forestmap,
+			:rainmap, #rainmap, a temperary rainmap which just does nothing but tells you how rainy it is
+			:forestmap, #forestmap, records foresteration
 			
 		]
 	]
