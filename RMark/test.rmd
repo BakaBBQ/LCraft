@@ -1,0 +1,10 @@
+####Hello Everyone and This is RMark! 
+<%=@time%>
+<%=Array.new(50){"meow"}%>
+<% def rand_mark
+return "#" * rand(3) + "meow"
+end%>
+
+
+<%= Array.new(3){rand_mark} * "\n"%>
+<%dynamic @time%>
