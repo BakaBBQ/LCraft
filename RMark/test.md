@@ -1,4 +1,5 @@
 #LCraft
+<%= @test %>
 An approach to RogueLike + Sandbox
 
 ###Basic Concepts
