@@ -1,3 +1,3 @@
 ###Battler Status
-####Name:  <%= @battler.name %>
 ####Race:  <%= @battler.race %>
+####Name:  <%= @battler.name %>
