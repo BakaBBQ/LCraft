@@ -1,0 +1,3 @@
+###<%=@part.name%>
+Size: <%=@part.size%> (<%=vocab_for_size(@part.size)%>)
+Damage: <%=@part.damage%>%
