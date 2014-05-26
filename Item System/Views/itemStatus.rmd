@@ -1,3 +1,6 @@
 ###<%=@item.name%>
 Size: <%=@item.size%>
+Density: <%=@item.density.round(2)%>
+Weight: <%=@item.weight.round(2)%>
+Container Size: <%=@item.cur_size%>/<%=@item.container_size%>
 Engravings: <%=@item.engravings%>
