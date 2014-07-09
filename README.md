@@ -7,7 +7,7 @@ While the game starts, you need a world. The world will develop and you can paus
 Then you can choose any of the auto-generated characters and control them in a rougelike + sandbox manner
 
 ###Development Status
-Currently semi-active. Meaning that I will develop LCraft at least every two days
+Currently semi-active. Meaning that I will develop LCraft at least every ~~two~~ thirty days
 
 ###Can I help with anything?
 No. Basics are still being developed =-=.
